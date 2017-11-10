@@ -1,0 +1,21 @@
+static const char* terminalprompt="root#>";
+static const char* welcomemsg = 
+"                   -`                 \n"
+"                  .o+`                 Hola mundo, somos el grupo Arch Linux!\n"
+"                 `ooo/                 \n"
+"                `+oooo:                Luis Gonzalez:   0900-07-2318\n"
+"               `+oooooo:               Marvin Cortez:   0900-00-2593\n"
+"               -+oooooo+:              Gabriela Guzman: 0900-11-319\n"
+"             `/:-:++oooo+:             Debora Monroy:   0900-15-9065\n"
+"            `/++++/+++++++:            Douglas Vaquiax: 0900-15-8494\n"
+"           `/++++++++++++++:           \n"
+"          `/+++ooooooooooooo/`         \n"
+"         ./ooosssso++osssssso+`        \n"
+"        .oossssso-````/ossssss+`       \n"
+"       -osssssso.      :ssssssso.      \n"
+"      :osssssss/        osssso+++.     \n"
+"     /ossssssss/        +ssssooo/-     \n"
+"   `/ossssso+/:-        -:/+osssso+-   \n"
+"  `+sso+:-`                 `.-/+oso:  \n"
+" `++:.                           `-/+/ \n"
+" .`                                 `/ \n";
